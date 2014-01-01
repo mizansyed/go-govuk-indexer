@@ -1,4 +1,4 @@
 go-govuk-indexer
 ================
 
-Crawler and Indexer gov.uk links
+Crawler and Indexer for gov.uk links
